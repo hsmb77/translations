@@ -2902,6 +2902,9 @@ msgstr ""
 msgid "Sugar Pumpkins"
 msgstr ""
 
+msgid "Super Adventure Box"
+msgstr ""
+
 msgid "Supply"
 msgstr ""
 
