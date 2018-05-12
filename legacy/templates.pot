@@ -1,0 +1,3793 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+msgid "(excluding taxes)"
+msgstr ""
+
+msgid "(per item)"
+msgstr ""
+
+msgid "+5 Agony Resistance"
+msgstr ""
+
+msgid "- All -"
+msgstr ""
+
+msgid "0-500h"
+msgstr ""
+
+msgid "0-500h playtime"
+msgstr ""
+
+msgid "0.5% of players"
+msgstr ""
+
+msgid "1 boss hidden"
+msgid_plural "{{$count}} bosses hidden"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 buyer"
+msgid_plural "{{$count}} buyers"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 contestant"
+msgid_plural "{{ $count | number:0}} contestants"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 craft"
+msgid_plural "{{$count | number:0 }} crafts"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 death"
+msgid_plural "{{$count | number}} deaths"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 dungeon hidden"
+msgid_plural "{{$count}} dungeons hidden"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 hit"
+msgid_plural "{{$count}} hits"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 objective completed"
+msgid_plural "{{ $count | number:0 }} objectives completed"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 seller"
+msgid_plural "{{$count}} sellers"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1% of players"
+msgstr ""
+
+msgid "10% of players"
+msgstr ""
+
+msgid "1000-2000h"
+msgstr ""
+
+msgid "1000-2000h playtime"
+msgstr ""
+
+msgid "20% of players"
+msgstr ""
+
+msgid "2000-4000h"
+msgstr ""
+
+msgid "2000-4000h playtime"
+msgstr ""
+
+msgid "4000h+"
+msgstr ""
+
+msgid "4000h+ playtime"
+msgstr ""
+
+msgid "50% of players"
+msgstr ""
+
+msgid "500-1000h"
+msgstr ""
+
+msgid "500-1000h playtime"
+msgstr ""
+
+msgid "75% of players"
+msgstr ""
+
+msgid "90% of players"
+msgstr ""
+
+msgid "99% of players"
+msgstr ""
+
+msgid "<abbr title=\"Average monthly rate of return (this value is only accurate if the investment time is correct and dates back more than one month)\">AMROR</abbr>"
+msgstr ""
+
+msgid "<abbr title=\"Return on investment\">ROI</abbr>"
+msgstr ""
+
+msgid "<abbr title=\"Sell price with tradingpost fees deducted\">Net value</abbr>"
+msgstr ""
+
+msgid "<strong>Check back every day</strong> to enter for prizes and<br>sign up for the <strong>big prizes drawn on the 25th of December at the bottom!</strong>"
+msgstr ""
+
+msgid "A Very Merry Wintersday"
+msgstr ""
+
+msgid "API key invalid"
+msgstr ""
+
+msgid "API key is missing permission"
+msgstr ""
+
+msgid "API key needs \"guilds\" permission"
+msgstr ""
+
+msgid "API key required"
+msgstr ""
+
+msgid "ASC"
+msgstr ""
+
+msgid "Accessories"
+msgstr ""
+
+msgid "Accessory"
+msgstr ""
+
+msgid "Account"
+msgstr ""
+
+msgid "Account - Achievements"
+msgstr ""
+
+msgid "Account - Bank"
+msgstr ""
+
+msgid "Account - Character -"
+msgstr ""
+
+msgid "Account - Characters"
+msgstr ""
+
+msgid "Account - Dyes"
+msgstr ""
+
+msgid "Account - Farming Tracker"
+msgstr ""
+
+msgid "Account - Finishers"
+msgstr ""
+
+msgid "Account - Gemstore Account Upgrades"
+msgstr ""
+
+msgid "Account - Gliders"
+msgstr ""
+
+msgid "Account - Guild"
+msgstr ""
+
+msgid "Account - Guilds"
+msgstr ""
+
+msgid "Account - Home Cats"
+msgstr ""
+
+msgid "Account - Home Nodes"
+msgstr ""
+
+msgid "Account - Mailcarriers"
+msgstr ""
+
+msgid "Account - Material Storage"
+msgstr ""
+
+msgid "Account - Miniatures"
+msgstr ""
+
+msgid "Account - Outfits"
+msgstr ""
+
+msgid "Account - Overview"
+msgstr ""
+
+msgid "Account - Permanent Nodes"
+msgstr ""
+
+msgid "Account - Player Statistics"
+msgstr ""
+
+msgid "Account - PvP"
+msgstr ""
+
+msgid "Account - PvP Heroes"
+msgstr ""
+
+msgid "Account - Recipes"
+msgstr ""
+
+msgid "Account - SAB"
+msgstr ""
+
+msgid "Account - Shared Inventory"
+msgstr ""
+
+msgid "Account - Statistics"
+msgstr ""
+
+msgid "Account - Tonics"
+msgstr ""
+
+msgid "Account - Unlock Statistics"
+msgstr ""
+
+msgid "Account - Wallet"
+msgstr ""
+
+msgid "Account - Wardrobe"
+msgstr ""
+
+msgid "Account Overview"
+msgstr ""
+
+msgid "Account Statistics"
+msgstr ""
+
+msgid "Account Value"
+msgstr ""
+
+msgid "Account value"
+msgstr ""
+
+msgid "Accountbound"
+msgstr ""
+
+msgid "Accountbound miniatures:"
+msgstr ""
+
+msgid "Accountbound on use"
+msgstr ""
+
+msgid "Acquisition"
+msgstr ""
+
+msgid "Acquisition:"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Add an API key"
+msgstr ""
+
+msgid "Add another item"
+msgstr ""
+
+msgid "Add this item to your tracked items"
+msgstr ""
+
+msgid "Adept (300 - 399)"
+msgstr ""
+
+msgid "Admiral Taidha Covington"
+msgstr ""
+
+msgid "Aetherblade"
+msgstr ""
+
+msgid "Aetherium"
+msgstr ""
+
+msgid "Aetherium / Exp"
+msgstr ""
+
+msgid "Aetherpath (Path 4)"
+msgstr ""
+
+msgid "Age"
+msgstr ""
+
+msgid "Agent Crandle"
+msgstr ""
+
+msgid "Agony Resistance"
+msgstr ""
+
+msgid "Akk Wilds Waypoint"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "All dungeons"
+msgstr ""
+
+msgid "All professions"
+msgstr ""
+
+msgid "All the data collected is only publicly available anonymized and <strong>without connection to any individual accounts</strong>.<br>If you still don't want your account data to be included in the wealth distribution, please click <a href=\"\" ng-click=\"blacklist('add')\">here</a>.<br>If you blacklisted yourself and you changed your mind, please click <a href=\"\" ng-click=\"blacklist('remove')\">here</a>."
+msgstr ""
+
+msgid "All upgrades"
+msgstr ""
+
+msgid "Always"
+msgstr ""
+
+msgid "Amount"
+msgstr ""
+
+msgid "Amulet"
+msgstr ""
+
+msgid "Amulets"
+msgstr ""
+
+msgid "An email has been sent to the email address provided."
+msgstr ""
+
+msgid "Any"
+msgstr ""
+
+msgid "Apostate Waypoint"
+msgstr ""
+
+msgid "Apprentice (150 - 224)"
+msgstr ""
+
+msgid "Aquatic Headgear"
+msgstr ""
+
+msgid "Aquatic Ruins (Dark Path)"
+msgstr ""
+
+msgid "Aquatic Ruins (Dolphin Path)"
+msgstr ""
+
+msgid "Are you sure that you want to delete this investment?"
+msgstr ""
+
+msgid "Armor"
+msgstr ""
+
+msgid "Armor Runes"
+msgstr ""
+
+msgid "Armorsmith"
+msgstr ""
+
+msgid "Artichoke"
+msgstr ""
+
+msgid "Artificer"
+msgstr ""
+
+msgid "Arundon Waypoint"
+msgstr ""
+
+msgid "Ascalonian Catacombs"
+msgstr ""
+
+msgid "Ascended"
+msgstr ""
+
+msgid "Ascended Materials"
+msgstr ""
+
+msgid "Ashford Waypoint"
+msgstr ""
+
+msgid "Asura"
+msgstr ""
+
+msgid "Asura (Path 1)"
+msgstr ""
+
+msgid "Attributes"
+msgstr ""
+
+msgid "Augur's Stone"
+msgstr ""
+
+msgid "Available"
+msgstr ""
+
+msgid "Average"
+msgstr ""
+
+msgid "Average per item"
+msgstr ""
+
+msgid "Avg. buy price / each"
+msgstr ""
+
+msgid "Avg. sell price / each"
+msgstr ""
+
+msgid "Axe"
+msgstr ""
+
+msgid "Axes"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Back to login"
+msgstr ""
+
+msgid "Backpack"
+msgstr ""
+
+msgid "Backpieces"
+msgstr ""
+
+msgid "Bag"
+msgstr ""
+
+msgid "Bags"
+msgstr ""
+
+msgid "Bank"
+msgstr ""
+
+msgid "Basic"
+msgstr ""
+
+msgid "Battle for Lion's Arch: Aftermath"
+msgstr ""
+
+msgid "Beaded weapons"
+msgstr ""
+
+msgid "Beetletun Waypoint"
+msgstr ""
+
+msgid "Behem Waypoint"
+msgstr ""
+
+msgid "Berserker"
+msgstr ""
+
+msgid "Best bidder only"
+msgstr ""
+
+msgid "Big thanks to everybody sending encouraging messages, filing bug reports, sharing ideas and offering helpful critique. You rock."
+msgstr ""
+
+msgid "Binding:"
+msgstr ""
+
+msgid "Birthdays:"
+msgstr ""
+
+msgid "Black Lion Salvage Kit"
+msgstr ""
+
+msgid "Black Lion Weapons Specialist"
+msgstr ""
+
+msgid "Blasted Moors Waypoint"
+msgstr ""
+
+msgid "Blazeridge Steppes"
+msgstr ""
+
+msgid "Bloodstone Shard"
+msgstr ""
+
+msgid "Bloodtide Coast"
+msgstr ""
+
+msgid "Blue"
+msgstr ""
+
+msgid "Blue team"
+msgstr ""
+
+msgid "Boon Duration"
+msgstr ""
+
+msgid "Boots"
+msgstr ""
+
+msgid "Booze"
+msgstr ""
+
+msgid "Bram Dawnrazer"
+msgstr ""
+
+msgid "Branded Devourer Queen"
+msgstr ""
+
+msgid "Breaktooth’s Waypoint"
+msgstr ""
+
+msgid "Brightness"
+msgstr ""
+
+msgid "Brisban Wildlands"
+msgstr ""
+
+msgid "Brown"
+msgstr ""
+
+msgid "Build"
+msgstr ""
+
+msgid "Buildable"
+msgstr ""
+
+msgid "Building"
+msgstr ""
+
+msgid "Bulk"
+msgstr ""
+
+msgid "Bulwark Waypoint"
+msgstr ""
+
+msgid "Butcher (Path 1)"
+msgstr ""
+
+msgid "Butler (Path 3)"
+msgstr ""
+
+msgid "Butternut Squash"
+msgstr ""
+
+msgid "Buy 75x \"Sun Bead\" from the vendor and then craft the (sellable) item ouf of them.<br>You have to discover the recipe via the \"discovery\" tab of your crafing profession."
+msgstr ""
+
+msgid "Buy Listings"
+msgstr ""
+
+msgid "Buy four of these karma items and forge them together using the mystic forge.<br>This converts them into items you can salvage for materials."
+msgstr ""
+
+msgid "Buy history"
+msgstr ""
+
+msgid "Buy listings"
+msgstr ""
+
+msgid "Buy obsidian shards, craft mystic clovers and hope for random materials"
+msgstr ""
+
+msgid "Buy price"
+msgstr ""
+
+msgid "Buy price (per unit)"
+msgstr ""
+
+msgid "Buy price / demand"
+msgstr ""
+
+msgid "Buy price:"
+msgstr ""
+
+msgid "Buy stock of this item"
+msgstr ""
+
+msgid "Buy the jewlery boxes from any karma vendor in Orr and open them.<br>Use all the karma consumables you get out of them and sell the rest."
+msgstr ""
+
+msgid "Buying 100 Gems"
+msgstr ""
+
+msgid "Cabbage"
+msgstr ""
+
+msgid "Calculate the best way to craft recipes, get shopping lists and display exact crafting steps."
+msgstr ""
+
+msgid "Caledon Forest"
+msgstr ""
+
+msgid "Caledon Haven Waypoint"
+msgstr ""
+
+msgid ""
+"Can't find a user with that e-mail address, please contact support under <a href=\"mailto:admin@gw2efficiency.com\">admin@gw2efficiency.com</a>\n"
+"                    for instructions on how to get your account back."
+msgstr ""
+
+msgid "Captain Mai Trin Boss"
+msgstr ""
+
+msgid "Carrot, Lettuce, Cabbage & Cactus"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Caudecus's Manor"
+msgstr ""
+
+msgid "Cauliflower"
+msgstr ""
+
+msgid "Cereboth Waypoint"
+msgstr ""
+
+msgid "Character"
+msgstr ""
+
+msgid "Character:"
+msgstr ""
+
+msgid "Characters"
+msgstr ""
+
+msgid "Charr"
+msgstr ""
+
+msgid "Chat tools"
+msgstr ""
+
+msgid "Chef"
+msgstr ""
+
+msgid "Chest"
+msgstr ""
+
+msgid "Choking"
+msgstr ""
+
+msgid "Christmas Lottery"
+msgstr ""
+
+msgid "Chronomancer"
+msgstr ""
+
+msgid "Citadel of Flame"
+msgstr ""
+
+msgid "Class"
+msgstr ""
+
+msgid "Claw of Jormag"
+msgstr ""
+
+msgid "Clear Notification"
+msgstr ""
+
+msgid "Clerk Ulva"
+msgstr ""
+
+msgid "Click any of the items below to open the crafting tree & shopping list"
+msgstr ""
+
+msgid "Click for a video guide!"
+msgstr ""
+
+msgid "Click on the specific currencies to see their conversion into gold."
+msgstr ""
+
+msgid "Click to copy"
+msgstr ""
+
+msgid "Click to select"
+msgstr ""
+
+msgid "Click to show acquisition and preview of this skin"
+msgstr ""
+
+msgid "Click to show the times this event runs"
+msgstr ""
+
+msgid "Cliffside"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Cloth"
+msgstr ""
+
+msgid "Clothing"
+msgstr ""
+
+msgid "Cloven Hoof Waypoint"
+msgstr ""
+
+msgid "Coat"
+msgstr ""
+
+msgid "Collapse"
+msgstr ""
+
+msgid "Collapse all"
+msgstr ""
+
+msgid "Collapse:"
+msgstr ""
+
+msgid "Collapsed buy history"
+msgstr ""
+
+msgid "Collapsed sell history"
+msgstr ""
+
+msgid "Collapsed view:"
+msgstr ""
+
+msgid "Collapsed: click to show objectives, collections and tiers"
+msgstr ""
+
+msgid "Collection:"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Color:"
+msgstr ""
+
+msgid "Combine"
+msgstr ""
+
+msgid "Common"
+msgstr ""
+
+msgid "Common Crafting Materials"
+msgstr ""
+
+msgid "Common Crafting Materials (Refined)"
+msgstr ""
+
+msgid "Community - Christmas Lottery"
+msgstr ""
+
+msgid "Community - Contributors"
+msgstr ""
+
+msgid "Community - Lottery"
+msgstr ""
+
+msgid "Community Lottery"
+msgstr ""
+
+msgid "Completed"
+msgstr ""
+
+msgid "Completed {{ achievement.completion.repeated || 0 | number:0  }} times ({{ achievement.breakdown.points_per_repeat }} <i class=\"sprite-achievement-icon\"></i> each)"
+msgstr ""
+
+msgid "Completed;Count;Name;Price each;Price total"
+msgstr ""
+
+msgid "Component"
+msgstr ""
+
+msgid "Components"
+msgstr ""
+
+msgid "Components price:"
+msgstr ""
+
+msgid "Condition Damage"
+msgstr ""
+
+msgid "Condition Duration"
+msgstr ""
+
+msgid "Condition damage / Power / Vitality"
+msgstr ""
+
+msgid "Condition damage / Precision / Toughness"
+msgstr ""
+
+msgid "Condition damage / Toughness / Vitality"
+msgstr ""
+
+msgid "Consumable"
+msgstr ""
+
+msgid "Consumables"
+msgstr ""
+
+msgid "Contact me if you want to help translating! :)"
+msgstr ""
+
+msgid "Contestants"
+msgstr ""
+
+msgid "Contrast"
+msgstr ""
+
+msgid "Conversion"
+msgstr ""
+
+msgid "Cooking Ingredient"
+msgstr ""
+
+msgid "Cooking Materials"
+msgstr ""
+
+msgid "Cost"
+msgstr ""
+
+msgid "Cost / Exp"
+msgstr ""
+
+msgid "Cost Breakdown"
+msgstr ""
+
+msgid "Cost:"
+msgstr ""
+
+msgid "Countdown"
+msgstr ""
+
+msgid "Craft"
+msgstr ""
+
+msgid "Craft daily cooldowns:"
+msgstr ""
+
+msgid "Craft precursors:"
+msgstr ""
+
+msgid "Craft:"
+msgstr ""
+
+msgid "Crafting"
+msgstr ""
+
+msgid "Crafting - Ascended Weapons & Armor"
+msgstr ""
+
+msgid "Crafting - Calculator"
+msgstr ""
+
+msgid "Crafting - Legendaries"
+msgstr ""
+
+msgid "Crafting - Recipe overview"
+msgstr ""
+
+msgid "Crafting Calculator"
+msgstr ""
+
+msgid "Crafting Material"
+msgstr ""
+
+msgid "Crafting Price (buy)"
+msgstr ""
+
+msgid "Crafting Price (sell)"
+msgstr ""
+
+msgid "Crafting Profit"
+msgstr ""
+
+msgid "Crafting Steps"
+msgstr ""
+
+msgid "Crafting price"
+msgstr ""
+
+msgid "Crafting price:"
+msgstr ""
+
+msgid "Crafting profit"
+msgstr ""
+
+msgid "Created"
+msgstr ""
+
+msgid "Crimson Lion"
+msgstr ""
+
+msgid "Criterion Waypoint"
+msgstr ""
+
+msgid "Critical Chance"
+msgstr ""
+
+msgid "Critical Damage"
+msgstr ""
+
+msgid "Crucible of Eternity"
+msgstr ""
+
+msgid "Crystal"
+msgstr ""
+
+msgid "Crystal Desert"
+msgstr ""
+
+msgid "Cuadinti"
+msgstr ""
+
+msgid "Currencies"
+msgstr ""
+
+msgid "Currencies - Badges of Honor"
+msgstr ""
+
+msgid "Currencies - Claim Tickets"
+msgstr ""
+
+msgid "Currencies - Dungeon Tokens"
+msgstr ""
+
+msgid "Currencies - Gems"
+msgstr ""
+
+msgid "Currencies - Guild Commendations"
+msgstr ""
+
+msgid "Currencies - Karma"
+msgstr ""
+
+msgid "Currencies - Laurels"
+msgstr ""
+
+msgid "Currencies - Spirit Shards"
+msgstr ""
+
+msgid "Currency"
+msgstr ""
+
+msgid "Current buy price"
+msgstr ""
+
+msgid "Current profit"
+msgstr ""
+
+msgid "Current sell price"
+msgstr ""
+
+msgid "Currently not tracked items"
+msgstr ""
+
+msgid "Cursed Shore"
+msgstr ""
+
+msgid "Custom Arena"
+msgstr ""
+
+msgid "DESC"
+msgstr ""
+
+msgid "Dagger"
+msgstr ""
+
+msgid "Daggers"
+msgstr ""
+
+msgid "Daily"
+msgstr ""
+
+msgid "Daily & Monthly"
+msgstr ""
+
+msgid "Daily cooldowns"
+msgstr ""
+
+msgid "Daredevil"
+msgstr ""
+
+msgid "Davis the Survivor"
+msgstr ""
+
+msgid "Defense:"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete this investment?"
+msgstr ""
+
+msgid "Delete this item?"
+msgstr ""
+
+msgid "Demand"
+msgstr ""
+
+msgid "Demand > Supply"
+msgstr ""
+
+msgid "Demetra Waypoint"
+msgstr ""
+
+msgid "Demon’s Maw Waypoint"
+msgstr ""
+
+msgid "Dessert"
+msgstr ""
+
+msgid "Detha (Path 2)"
+msgstr ""
+
+msgid "Diessa Plateau"
+msgstr ""
+
+msgid "Dire Shoal Waypoint"
+msgstr ""
+
+msgid "Discipline:"
+msgstr ""
+
+msgid "Dollar ($)"
+msgstr ""
+
+msgid "Dragonhunter"
+msgstr ""
+
+msgid "Drawing charts and graphs"
+msgstr ""
+
+msgid "Drawing next winners"
+msgstr ""
+
+msgid "Drawn At"
+msgstr ""
+
+msgid "Dredge Commissar"
+msgstr ""
+
+msgid "Dredgehaunt Cliffs"
+msgstr ""
+
+msgid "Druid"
+msgstr ""
+
+msgid "Dry Top"
+msgstr ""
+
+msgid "Dungeon potions"
+msgstr ""
+
+msgid "Dungeon recipes"
+msgstr ""
+
+msgid "Dungeons"
+msgstr ""
+
+msgid "Dungeons, Raids and Fractals"
+msgstr ""
+
+msgid "Duration"
+msgstr ""
+
+msgid "During that time you died a total of {{ total_deaths | number:0 }} times. That's {{ total_deaths / (total_age/60/60) | number:2 }} deaths per hour"
+msgstr ""
+
+msgid "Durmand Priory Waypoint"
+msgstr ""
+
+msgid "Dye Cooking"
+msgstr ""
+
+msgid "Earnable"
+msgstr ""
+
+msgid "Earring"
+msgstr ""
+
+msgid "Edit investment"
+msgstr ""
+
+msgid "Elder Wood"
+msgstr ""
+
+msgid "Eldritch Scroll"
+msgstr ""
+
+msgid "Elementalist"
+msgstr ""
+
+msgid "Enemies apply random conditions. When you dodge roll, you lose all your boons."
+msgstr ""
+
+msgid "Enemies explode when killed."
+msgstr ""
+
+msgid "Enemies recieve random boons when you hit them for critical damage."
+msgstr ""
+
+msgid "Enemies steal boons when they hit you. Nearby allies receive agony."
+msgstr ""
+
+msgid "Engineer"
+msgstr ""
+
+msgid "Enter me into the lottery!"
+msgstr ""
+
+msgid "Enter the lottery"
+msgstr ""
+
+msgid "Enter the name of an item in the search box above, and click on <i class=\"fa fa-plus-circle\"></i> to add it to your list."
+msgstr ""
+
+msgid "Enter your e-mail"
+msgstr ""
+
+msgid "Enter your new password"
+msgstr ""
+
+msgid "Equipment"
+msgstr ""
+
+msgid "Equipment Only"
+msgstr ""
+
+msgid "Equipment:"
+msgstr ""
+
+msgid "Euro (€)"
+msgstr ""
+
+msgid "Event"
+msgstr ""
+
+msgid "Everybody"
+msgstr ""
+
+msgid "Everything"
+msgstr ""
+
+msgid "Evolved Jungle Wurm"
+msgstr ""
+
+msgid "Exchange rates"
+msgstr ""
+
+msgid "Exclude"
+msgstr ""
+
+msgid "Exotic"
+msgstr ""
+
+msgid "Exp"
+msgstr ""
+
+msgid "Expand"
+msgstr ""
+
+msgid "Expand all"
+msgstr ""
+
+msgid "Experience"
+msgstr ""
+
+msgid "Experience:"
+msgstr ""
+
+msgid "Explorer Erikk"
+msgstr ""
+
+msgid "Export to Excel"
+msgstr ""
+
+msgid "Eye of Zhaitan"
+msgstr ""
+
+msgid "Fangfury Watch Waypoint"
+msgstr ""
+
+msgid "Favor"
+msgstr ""
+
+msgid "Favor / Exp"
+msgstr ""
+
+msgid "Feast"
+msgstr ""
+
+msgid "Fergg (Path 1)"
+msgstr ""
+
+msgid "Ferocity"
+msgstr ""
+
+msgid "Ferrah (Path 1)"
+msgstr ""
+
+msgid "Festive Materials"
+msgstr ""
+
+msgid "Fields of Ruin"
+msgstr ""
+
+msgid "Find out which use of your spirit shards, dungeon tokens, etc. gives you the most profit so you don't waste valuable currencies."
+msgstr ""
+
+msgid "Fine"
+msgstr ""
+
+msgid "Fine Crafting Materials"
+msgstr ""
+
+msgid "Finished"
+msgstr ""
+
+msgid "Fire"
+msgstr ""
+
+msgid "Fire Elemental"
+msgstr ""
+
+msgid "Fire Shaman"
+msgstr ""
+
+msgid "Fireheart Rise"
+msgstr ""
+
+msgid "Flame and Frost"
+msgstr ""
+
+msgid "Flamefrog Waypoint"
+msgstr ""
+
+msgid "Flat Profit"
+msgstr ""
+
+msgid "Flax"
+msgstr ""
+
+msgid "Flip profit"
+msgstr ""
+
+msgid "Foci"
+msgstr ""
+
+msgid "Focus"
+msgstr ""
+
+msgid "Food Effects"
+msgstr ""
+
+msgid "Forgot your password?"
+msgstr ""
+
+msgid "Forgotten (Path 3)"
+msgstr ""
+
+msgid "Foulbear Chieftain"
+msgstr ""
+
+msgid "Fractals"
+msgstr ""
+
+msgid "Fractals of the Mists"
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid "Front Door (Path 3)"
+msgstr ""
+
+msgid "Frostgorge Sound"
+msgstr ""
+
+msgid "Funds Waiting"
+msgstr ""
+
+msgid "Gallowfields Waypoint"
+msgstr ""
+
+msgid "Gates of Arah"
+msgstr ""
+
+msgid "Gathering"
+msgstr ""
+
+msgid "Gems"
+msgstr ""
+
+msgid "Gemstones and Jewels"
+msgstr ""
+
+msgid "Gemstore Account Upgrades"
+msgstr ""
+
+msgid "Gemstore dyes:"
+msgstr ""
+
+msgid "Gemstore price:"
+msgstr ""
+
+msgid "Gendarran Fields"
+msgstr ""
+
+msgid "Generic"
+msgstr ""
+
+msgid "Get a list of permanent gathering nodes you can gather with a daily checklist."
+msgstr ""
+
+msgid "Gladefall Waypoint"
+msgstr ""
+
+msgid "Glint's Winter"
+msgstr ""
+
+msgid "Globs of Ectoplasm"
+msgstr ""
+
+msgid "Gloves"
+msgstr ""
+
+msgid "Godslost Waypoint"
+msgstr ""
+
+msgid "Gold"
+msgstr ""
+
+msgid "Gold / Exp"
+msgstr ""
+
+msgid "Grandmaster (500)"
+msgstr ""
+
+msgid "Grapes"
+msgstr ""
+
+msgid "Gray"
+msgstr ""
+
+msgid "Greatsword"
+msgstr ""
+
+msgid "Greatswords"
+msgstr ""
+
+msgid "Green"
+msgstr ""
+
+msgid "Grostogg’s Kraal Waypoint"
+msgstr ""
+
+msgid "Grouping:"
+msgstr ""
+
+msgid "Groznev Waypoint"
+msgstr ""
+
+msgid "Guard Barnaby"
+msgstr ""
+
+msgid "Guardian"
+msgstr ""
+
+msgid "Guardpoint Decimus Waypoint"
+msgstr ""
+
+msgid "Guides, gathering &amp; community events"
+msgstr ""
+
+msgid "Guild Commendation Trader"
+msgstr ""
+
+msgid "Guild Decoration"
+msgstr ""
+
+msgid "Guild Trader"
+msgstr ""
+
+msgid "Guildhall value:"
+msgstr ""
+
+msgid "Hammer"
+msgstr ""
+
+msgid "Hammers"
+msgstr ""
+
+msgid "Harathi Hinterlands"
+msgstr ""
+
+msgid "Harpoon"
+msgstr ""
+
+msgid "Harpoon Gun"
+msgstr ""
+
+msgid "Harpoon Guns"
+msgstr ""
+
+msgid "Headgear"
+msgstr ""
+
+msgid "Healing"
+msgstr ""
+
+msgid "Healing Power"
+msgstr ""
+
+msgid "Healing power / Precision / Vitality"
+msgstr ""
+
+msgid "Health"
+msgstr ""
+
+msgid "Heavy"
+msgstr ""
+
+msgid "Heavy Aquatic Headgear"
+msgstr ""
+
+msgid "Heavy Boots"
+msgstr ""
+
+msgid "Heavy Chest"
+msgstr ""
+
+msgid "Heavy Gloves"
+msgstr ""
+
+msgid "Heavy Headgear"
+msgstr ""
+
+msgid "Heavy Leggings"
+msgstr ""
+
+msgid "Heavy Shoulders"
+msgstr ""
+
+msgid "Helliot Mine Waypoint"
+msgstr ""
+
+msgid "Helm"
+msgstr ""
+
+msgid "Help with infrastructure management"
+msgstr ""
+
+msgid "Herald"
+msgstr ""
+
+msgid "Hero"
+msgstr ""
+
+msgid "Heroics Notary"
+msgstr ""
+
+msgid "Hidden only:"
+msgstr ""
+
+msgid "Hide"
+msgstr ""
+
+msgid "Hide done bosses:"
+msgstr ""
+
+msgid "Hide done:"
+msgstr ""
+
+msgid "Hide if over:"
+msgstr ""
+
+msgid "Hide inactive bosses:"
+msgstr ""
+
+msgid "Hide one unlocked recipe"
+msgid_plural "Hide {{$count}} unlocked recipes"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Hide unprofitable recipes:"
+msgstr ""
+
+msgid "Higher than {{ topPercent(account_stats.live.rank / account_stats.live.participants) | number }}% of {{ account_stats.live.participants | number }} accounts"
+msgstr ""
+
+msgid "Historical item prices"
+msgstr ""
+
+msgid "Hodgins (Path 1)"
+msgstr ""
+
+msgid "Honor of the Waves"
+msgstr ""
+
+msgid "Hue"
+msgstr ""
+
+msgid "Human"
+msgstr ""
+
+msgid "Huntsman"
+msgstr ""
+
+msgid "Ice"
+msgstr ""
+
+msgid "Icedevil’s Waypoint"
+msgstr ""
+
+msgid "Icegate Waypoint"
+msgstr ""
+
+msgid "If you are lucky enough to be one of our winners, we will contact you in game! If the account name is incorrect or you haven't replied to us within 72 hours, either by in game mail or private message, we will redraw."
+msgstr ""
+
+msgid "If you wish to support us, you can do so by clicking any of the buttons below or sending us things ingame. Everything donated gets put back into the site. We appreciate it!"
+msgstr ""
+
+msgid "Import from API"
+msgstr ""
+
+msgid "Include"
+msgstr ""
+
+msgid "Include Ectoplasm:"
+msgstr ""
+
+msgid "Ingame"
+msgstr ""
+
+msgid "Initial mobile design"
+msgstr ""
+
+msgid "Initiate (75 - 149)"
+msgstr ""
+
+msgid "Inquest Golem Mark II"
+msgstr ""
+
+msgid "Inscription"
+msgstr ""
+
+msgid "Inscriptions & Insignias"
+msgstr ""
+
+msgid "Insignia"
+msgstr ""
+
+msgid "Inventory"
+msgstr ""
+
+msgid "Inventory Bags"
+msgstr ""
+
+msgid "Investment Date"
+msgstr ""
+
+msgid "Investment price"
+msgstr ""
+
+msgid "Investment profit"
+msgstr ""
+
+msgid "Iron Marches"
+msgstr ""
+
+msgid "Item"
+msgstr ""
+
+msgid "Item Id;Quantity;Item;Buy price;Sell price;Profit;Investment Date;Sell Date"
+msgstr ""
+
+msgid "Item Upgrades:"
+msgstr ""
+
+msgid "Item stack"
+msgstr ""
+
+msgid "Jaka Itzel Waypoint"
+msgstr ""
+
+msgid "Jeweler"
+msgstr ""
+
+msgid "Jewlerly Boxes"
+msgstr ""
+
+msgid "Joined"
+msgstr ""
+
+msgid "Jotun (Path 1)"
+msgstr ""
+
+msgid "Journeyman (225 - 299)"
+msgstr ""
+
+msgid "Jungle Wurm"
+msgstr ""
+
+msgid "Junk"
+msgstr ""
+
+msgid "Karka Queen"
+msgstr ""
+
+msgid "Karmic Converter"
+msgstr ""
+
+msgid "Kessex Hills"
+msgstr ""
+
+msgid "Koptev (Path 3)"
+msgstr ""
+
+msgid "Kraitbane Haven Waypoint"
+msgstr ""
+
+msgid "Last buy price change"
+msgstr ""
+
+msgid "Last sell price change"
+msgstr ""
+
+msgid "Last update"
+msgstr ""
+
+msgid "Latest matches"
+msgstr ""
+
+msgid "Laurel Merchant"
+msgstr ""
+
+msgid "Laurels"
+msgstr ""
+
+msgid "Leaderboard"
+msgstr ""
+
+msgid "League Division"
+msgstr ""
+
+msgid "League Rating"
+msgstr ""
+
+msgid "Leather"
+msgstr ""
+
+msgid "Leatherworker"
+msgstr ""
+
+msgid "Legal notice"
+msgstr ""
+
+msgid "Legend"
+msgstr ""
+
+msgid "Legendaries"
+msgstr ""
+
+msgid "Legendary"
+msgstr ""
+
+msgid "Legendary Component"
+msgstr ""
+
+msgid "Leggings"
+msgstr ""
+
+msgid "Lettuce"
+msgstr ""
+
+msgid "Leurent / Up (Path 3)"
+msgstr ""
+
+msgid "Level"
+msgstr ""
+
+msgid "Level 1 - 10"
+msgstr ""
+
+msgid "Level 11 - 20"
+msgstr ""
+
+msgid "Level 21 - 30"
+msgstr ""
+
+msgid "Level 31 - 40"
+msgstr ""
+
+msgid "Level 41 - 50"
+msgstr ""
+
+msgid "Level 51 - 60"
+msgstr ""
+
+msgid "Level 61 - 70"
+msgstr ""
+
+msgid "Level 71 - 80"
+msgstr ""
+
+msgid "Level 81 - 90"
+msgstr ""
+
+msgid "Level 91 - 100"
+msgstr ""
+
+msgid "Level: {{ achievement.level.min }} - {{ achievement.level.max }}"
+msgstr ""
+
+msgid "Lifetime stats"
+msgstr ""
+
+msgid "Light"
+msgstr ""
+
+msgid "Light Aquatic Headgear"
+msgstr ""
+
+msgid "Light Boots"
+msgstr ""
+
+msgid "Light Chest"
+msgstr ""
+
+msgid "Light Gloves"
+msgstr ""
+
+msgid "Light Headgear"
+msgstr ""
+
+msgid "Light Leggings"
+msgstr ""
+
+msgid "Light Shoulders"
+msgstr ""
+
+msgid "Lightning"
+msgstr ""
+
+msgid "Lights Waypoint"
+msgstr ""
+
+msgid "Lion's Arch Commemorative"
+msgstr ""
+
+msgid "Lion's Arch Rebuild"
+msgstr ""
+
+msgid "Liquid Gold (buy)"
+msgstr ""
+
+msgid "Liquid Gold (sell)"
+msgstr ""
+
+msgid "List of components sold by vendors"
+msgstr ""
+
+msgid "List of faction & race skin prices"
+msgstr ""
+
+msgid "List of mystic forge recipes"
+msgstr ""
+
+msgid "Listing fee"
+msgstr ""
+
+msgid "Listing price"
+msgstr ""
+
+msgid "Listings:"
+msgstr ""
+
+msgid "Loading..."
+msgstr ""
+
+msgid "Lobby type"
+msgstr ""
+
+msgid "Locked"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Longbow"
+msgstr ""
+
+msgid "Longbows"
+msgstr ""
+
+msgid "Loreclaw Waypoint"
+msgstr ""
+
+msgid "Lornar's Pass"
+msgstr ""
+
+msgid "Lost Match"
+msgstr ""
+
+msgid "Lottery"
+msgstr ""
+
+msgid "Lunk Kraal Waypoint"
+msgstr ""
+
+msgid "Lvl"
+msgstr ""
+
+msgid "Lvl {{ item.level }}"
+msgstr ""
+
+msgid "Mace"
+msgstr ""
+
+msgid "Maces"
+msgstr ""
+
+msgid "Magg (Path 2)"
+msgstr ""
+
+msgid "Magic Find"
+msgstr ""
+
+msgid "Maguuma"
+msgstr ""
+
+msgid "Malchor's Leap"
+msgstr ""
+
+msgid "Manage API keys"
+msgstr ""
+
+msgid "Manage your API keys"
+msgstr ""
+
+msgid "Manage your characters, achievements, miniatures and dyes and calculate how much money you would have if you sold your bank."
+msgstr ""
+
+msgid "Map"
+msgstr ""
+
+msgid "Master (400 - 499)"
+msgstr ""
+
+msgid "Masteries only:"
+msgstr ""
+
+msgid "Masterwork"
+msgstr ""
+
+msgid "Matches"
+msgstr ""
+
+msgid "Matches played"
+msgstr ""
+
+msgid "Material Storage"
+msgstr ""
+
+msgid "Material price"
+msgstr ""
+
+msgid "Material:"
+msgstr ""
+
+msgid "Maximum"
+msgstr ""
+
+msgid "Meal"
+msgstr ""
+
+msgid "Mean"
+msgstr ""
+
+msgid "Meddler’s Waypoint"
+msgstr ""
+
+msgid "Median"
+msgstr ""
+
+msgid "Medium"
+msgstr ""
+
+msgid "Medium Aquatic Headgear"
+msgstr ""
+
+msgid "Medium Boots"
+msgstr ""
+
+msgid "Medium Chest"
+msgstr ""
+
+msgid "Medium Gloves"
+msgstr ""
+
+msgid "Medium Headgear"
+msgstr ""
+
+msgid "Medium Leggings"
+msgstr ""
+
+msgid "Medium Shoulders"
+msgstr ""
+
+msgid "Megadestroyer"
+msgstr ""
+
+msgid "Members"
+msgstr ""
+
+msgid "Mesmer"
+msgstr ""
+
+msgid "Metal"
+msgstr ""
+
+msgid "Metrica Province"
+msgstr ""
+
+msgid "Min. value:"
+msgstr ""
+
+msgid "Miniature"
+msgstr ""
+
+msgid "Minimum"
+msgstr ""
+
+msgid "Minis"
+msgstr ""
+
+msgid "Miscellaneous"
+msgstr ""
+
+msgid "Molten Boss"
+msgstr ""
+
+msgid "Molten Furnace"
+msgstr ""
+
+msgid "Money"
+msgstr ""
+
+msgid "Money (current buy price)"
+msgstr ""
+
+msgid "Money (current sell price)"
+msgstr ""
+
+msgid "Money (listing price)"
+msgstr ""
+
+msgid "Most played classes"
+msgstr ""
+
+msgid "Most profitable"
+msgstr ""
+
+msgid "Mount Maelstrom"
+msgstr ""
+
+msgid "Mournful Waypoint"
+msgstr ""
+
+msgid "Mursaat (Path 2)"
+msgstr ""
+
+msgid "Mystic / Master's Salvage Kit"
+msgstr ""
+
+msgid "Mystic Clovers"
+msgstr ""
+
+msgid "Mystic Forge Conversion"
+msgstr ""
+
+msgid "Mystic Weapons"
+msgstr ""
+
+msgid "Mystic clovers"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Named Weapons"
+msgstr ""
+
+msgid "Necromancer"
+msgstr ""
+
+msgid "Needed for:"
+msgstr ""
+
+msgid "Next event"
+msgstr ""
+
+msgid "Next page"
+msgstr ""
+
+msgid "Next present"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No cats matching these filters."
+msgstr ""
+
+msgid "No delivered items"
+msgstr ""
+
+msgid "No dyes matching these filters."
+msgstr ""
+
+msgid "No finishers matching these filters."
+msgstr ""
+
+msgid "No gliders matching these filters."
+msgstr ""
+
+msgid "No heroes matching these filters."
+msgstr ""
+
+msgid "No historic listings matching these filters."
+msgstr ""
+
+msgid "No information"
+msgstr ""
+
+msgid "No listings available"
+msgstr ""
+
+msgid "No listings matching these filters."
+msgstr ""
+
+msgid "No mailcarriers matching these filters."
+msgstr ""
+
+msgid "No matches found"
+msgstr ""
+
+msgid "No miniatures matching these filters."
+msgstr ""
+
+msgid "No nodes matching these filters."
+msgstr ""
+
+msgid "No note"
+msgstr ""
+
+msgid "No outfits matching these filters."
+msgstr ""
+
+msgid "No own materials used"
+msgstr ""
+
+msgid "No preview image found."
+msgstr ""
+
+msgid "No recipes matching these filters."
+msgstr ""
+
+msgid "No results"
+msgstr ""
+
+msgid "No results found"
+msgstr ""
+
+msgid "No tonics matching these filters."
+msgstr ""
+
+msgid "Nolan Waypoint"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Norn"
+msgstr ""
+
+msgid "Not Owned"
+msgstr ""
+
+msgid "Not completed"
+msgstr ""
+
+msgid "Not crawled yet"
+msgstr ""
+
+msgid "Not sold or crafted"
+msgstr ""
+
+msgid "Nothing"
+msgstr ""
+
+msgid "Nourishment"
+msgstr ""
+
+msgid "Novice (0 - 74)"
+msgstr ""
+
+msgid "Objectives:"
+msgstr ""
+
+msgid "Ocean’s Gulley Waypoint"
+msgstr ""
+
+msgid "Ogre Road Waypoint"
+msgstr ""
+
+msgid "Old Sledge Site Waypoint"
+msgstr ""
+
+msgid "Oldgate Waypoint"
+msgstr ""
+
+msgid "On search"
+msgstr ""
+
+msgid "Only"
+msgstr ""
+
+msgid "Only available for leaders"
+msgstr ""
+
+msgid "Only craft if necessary:"
+msgstr ""
+
+msgid "Orange"
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "Order by:"
+msgstr ""
+
+msgid "Order of Whispers Camp Waypoint"
+msgstr ""
+
+msgid "Order price"
+msgstr ""
+
+msgid "Order:"
+msgstr ""
+
+msgid "Orichalcum"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "Overbid only"
+msgstr ""
+
+msgid "Overlord’s Waypoint"
+msgstr ""
+
+msgid "Overview"
+msgstr ""
+
+msgid "Owain's Refuge Waypoint"
+msgstr ""
+
+msgid "Owned"
+msgstr ""
+
+msgid "Oxbow Isle Waypoint"
+msgstr ""
+
+msgid "Packaged Goods"
+msgstr ""
+
+msgid "Pagga's Waypoint"
+msgstr ""
+
+msgid "Participate for free in our monthly lottery to win ever-changing prizes!"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Pendants"
+msgstr ""
+
+msgid "Percentile Graph"
+msgstr ""
+
+msgid "Permanent"
+msgstr ""
+
+msgid "Philosopher's Stone"
+msgstr ""
+
+msgid "Phinney Waypoint"
+msgstr ""
+
+msgid "Physical"
+msgstr ""
+
+msgid "Pistol"
+msgstr ""
+
+msgid "Pistols"
+msgstr ""
+
+msgid "Plains of Ashford"
+msgstr ""
+
+msgid "Played for"
+msgstr ""
+
+msgid "Playtime &amp; Deaths"
+msgstr ""
+
+msgid "Please check if you have any privacy extensions enabled and try disabling them. If the problem persists, please send me the text on the right."
+msgstr ""
+
+msgid "Please choose a password with at least 8 characters."
+msgstr ""
+
+msgid "Please choose a username with alpha-numeric characters only (A-Z, a-z, 0-9, -, _ and space)"
+msgstr ""
+
+msgid "Please enter a craftable item to calculate recipe"
+msgstr ""
+
+msgid "Please enter the e-mail associated with your account"
+msgstr ""
+
+msgid "Please enter your account name"
+msgstr ""
+
+msgid "Please enter your new password. Choose wisely. (And remember.)"
+msgstr ""
+
+msgid "Please keep in mind that you can buy ascended items with Laurels as well."
+msgstr ""
+
+msgid "Please note that temporary finishers do <strong>not</strong> count towards the value."
+msgstr ""
+
+msgid "Plinth Timberland Waypoint"
+msgstr ""
+
+msgid "Plunderer (Path 2)"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Potatoes"
+msgstr ""
+
+msgid "Potion"
+msgstr ""
+
+msgid "Pound (£)"
+msgstr ""
+
+msgid "Power"
+msgstr ""
+
+msgid "Power / Toughness / Vitality"
+msgstr ""
+
+msgid "Precision"
+msgstr ""
+
+msgid "Precursors"
+msgstr ""
+
+msgid "Prerequisites:"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Previous lotteries"
+msgstr ""
+
+msgid "Previous page"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Price (ASC)"
+msgstr ""
+
+msgid "Price (DESC)"
+msgstr ""
+
+msgid "Price history"
+msgstr ""
+
+msgid "Price:"
+msgstr ""
+
+msgid "Privacy"
+msgstr ""
+
+msgid "Prizepool"
+msgstr ""
+
+msgid "Prizes"
+msgstr ""
+
+msgid "Profession specific"
+msgstr ""
+
+msgid "Profit"
+msgstr ""
+
+msgid "Profit (buy price)"
+msgstr ""
+
+msgid "Profit (sell price)"
+msgstr ""
+
+msgid "Profit / Spirit Shard"
+msgstr ""
+
+msgid "Profit Percentage"
+msgstr ""
+
+msgid "Profit per badge"
+msgstr ""
+
+msgid "Profit per commendation"
+msgstr ""
+
+msgid "Profit per heroic"
+msgstr ""
+
+msgid "Profit per laurel"
+msgstr ""
+
+msgid "Profit per run"
+msgstr ""
+
+msgid "Profit per ticket"
+msgstr ""
+
+msgid "Profit per token"
+msgstr ""
+
+msgid "Profit per {{ 1000 | number:0 }} karma"
+msgstr ""
+
+msgid "Programming &amp; design"
+msgstr ""
+
+msgid "Provern Shore Waypoint"
+msgstr ""
+
+msgid "Purple"
+msgstr ""
+
+msgid "PvE"
+msgstr ""
+
+msgid "PvP"
+msgstr ""
+
+msgid "Qty."
+msgstr ""
+
+msgid "Quantity"
+msgstr ""
+
+msgid "Queensdale"
+msgstr ""
+
+msgid "ROI"
+msgstr ""
+
+msgid "Raids"
+msgstr ""
+
+msgid "Range"
+msgstr ""
+
+msgid "Ranger"
+msgstr ""
+
+msgid "Rank"
+msgstr ""
+
+msgid "Rank {{ wealth.rank | number }}"
+msgstr ""
+
+msgid "Ranked Queue"
+msgstr ""
+
+msgid "Ranks"
+msgstr ""
+
+msgid "Rare"
+msgstr ""
+
+msgid "Rare Crafting Materials"
+msgstr ""
+
+msgid "Rarity"
+msgstr ""
+
+msgid "Rarity:"
+msgstr ""
+
+msgid "Rasolov (Path 2)"
+msgstr ""
+
+msgid "Rating"
+msgstr ""
+
+msgid "Rating:"
+msgstr ""
+
+msgid "Reaper"
+msgstr ""
+
+msgid "Reaver’s Waypoint"
+msgstr ""
+
+msgid "Recipe tree"
+msgstr ""
+
+msgid "Red"
+msgstr ""
+
+msgid "Red team"
+msgstr ""
+
+msgid "Refinement"
+msgstr ""
+
+msgid "Refresh Automatically:"
+msgstr ""
+
+msgid "Refresh Now"
+msgstr ""
+
+msgid "Refresh the data of this item"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "Registering is optional, completely free and takes less than 20 seconds."
+msgstr ""
+
+msgid "Remaining cost:"
+msgstr ""
+
+msgid "Remaining:"
+msgstr ""
+
+msgid "Remanda Waypoint"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Required Level:"
+msgstr ""
+
+msgid "Required level"
+msgstr ""
+
+msgid "Required level:"
+msgstr ""
+
+msgid "Requires Heart of Thorns"
+msgstr ""
+
+msgid "Requires a guild hall with unlocked 'Guild Trader'"
+msgstr ""
+
+msgid "Requires a guild hall with unlocked 'War Room Restoration 1'"
+msgstr ""
+
+msgid "Requires the 'Cook' crafting profession on the appropriate levels"
+msgstr ""
+
+msgid "Reset all filters"
+msgstr ""
+
+msgid "Reset your password"
+msgstr ""
+
+msgid "Result"
+msgstr ""
+
+msgid "Result price:"
+msgstr ""
+
+msgid "Revenant"
+msgstr ""
+
+msgid "Reward"
+msgstr ""
+
+msgid "Rhendak the Crazed"
+msgstr ""
+
+msgid "Rhiannon (Path 3)"
+msgstr ""
+
+msgid "Rich Copper"
+msgstr ""
+
+msgid "Rich Gold"
+msgstr ""
+
+msgid "Rich Iron"
+msgstr ""
+
+msgid "Rich Iron or Silver"
+msgstr ""
+
+msgid "Rich Mithril"
+msgstr ""
+
+msgid "Rich Platinum"
+msgstr ""
+
+msgid "Rich Silver"
+msgstr ""
+
+msgid "Rifle"
+msgstr ""
+
+msgid "Rifles"
+msgstr ""
+
+msgid "Ring"
+msgstr ""
+
+msgid "Rings"
+msgstr ""
+
+msgid "Rosko’s Campsite Waypoint"
+msgstr ""
+
+msgid "Rustbowl Waypoint"
+msgstr ""
+
+msgid "Salvages into"
+msgstr ""
+
+msgid "Sangdo Swiftwing"
+msgstr ""
+
+msgid "Saturation"
+msgstr ""
+
+msgid "Save new password"
+msgstr ""
+
+msgid "Savings compared to buying"
+msgstr ""
+
+msgid "Scepter"
+msgstr ""
+
+msgid "Scepters"
+msgstr ""
+
+msgid "Score"
+msgstr ""
+
+msgid "Scrapper"
+msgstr ""
+
+msgid "Scribe"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search for an item"
+msgstr ""
+
+msgid "Search for an item name on your account"
+msgstr ""
+
+msgid "Search for an item..."
+msgstr ""
+
+msgid "Search through shared characters and accounts"
+msgstr ""
+
+msgid "Search..."
+msgstr ""
+
+msgid "Seasoning"
+msgstr ""
+
+msgid "Seer (Path 4)"
+msgstr ""
+
+msgid "Select a random achievement for my current filters!"
+msgstr ""
+
+msgid "Sell Date"
+msgstr ""
+
+msgid "Sell Listings"
+msgstr ""
+
+msgid "Sell all investments"
+msgstr ""
+
+msgid "Sell all investments?"
+msgstr ""
+
+msgid "Sell history"
+msgstr ""
+
+msgid "Sell investment"
+msgstr ""
+
+msgid "Sell listings"
+msgstr ""
+
+msgid "Sell price"
+msgstr ""
+
+msgid "Sell price (per unit)"
+msgstr ""
+
+msgid "Sell price / supply"
+msgstr ""
+
+msgid "Sell price:"
+msgstr ""
+
+msgid "Selling 100 Gems"
+msgstr ""
+
+msgid "Send password reset mail"
+msgstr ""
+
+msgid "Seraph (Path 2)"
+msgstr ""
+
+msgid "Seraph Soldier Diedra"
+msgstr ""
+
+msgid "Set"
+msgstr ""
+
+msgid "Set 1"
+msgstr ""
+
+msgid "Set 2"
+msgstr ""
+
+msgid "Set 3"
+msgstr ""
+
+msgid "Set:"
+msgstr ""
+
+msgid "Shadow"
+msgstr ""
+
+msgid "Shadow Behemoth"
+msgstr ""
+
+msgid "Share all your shared characters"
+msgstr ""
+
+msgid "Share:"
+msgstr ""
+
+msgid "Shared Characters"
+msgstr ""
+
+msgid "Shared Inventory"
+msgstr ""
+
+msgid "Sharing is activated for this character. If you don't want this, please <a href=\"/account/character/{{ character.name }}\">click here</a>, enter your API key, and uncheck the share permissions."
+msgstr ""
+
+msgid "Sharing is activated for this character. If you don't want this, please uncheck the permissions to share above."
+msgstr ""
+
+msgid "Shield"
+msgstr ""
+
+msgid "Shipwreck Rock Waypoint"
+msgstr ""
+
+msgid "Shopping List"
+msgstr ""
+
+msgid "Shortbow"
+msgstr ""
+
+msgid "Shortbows"
+msgstr ""
+
+msgid "Shoulders"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Show Bulk Recipes:"
+msgstr ""
+
+msgid "Show account:"
+msgstr ""
+
+msgid "Show currently active and upcoming worldbosses, get voice notifications and track your daily rewards."
+msgstr ""
+
+msgid "Show detailed information"
+msgstr ""
+
+msgid "Show listings:"
+msgstr ""
+
+msgid "Show one unlocked recipe"
+msgid_plural "Show {{$count}} unlocked recipes"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Show subcomponents:"
+msgstr ""
+
+msgid "Show:"
+msgstr ""
+
+msgid "Siege Blueprints"
+msgstr ""
+
+msgid "Siege Master"
+msgstr ""
+
+msgid "Siege Masters Guide"
+msgstr ""
+
+msgid "Simple Infusion"
+msgstr ""
+
+msgid "Single Use"
+msgstr ""
+
+msgid "Skillpoint conversion research"
+msgstr ""
+
+msgid "Skins"
+msgstr ""
+
+msgid "Slough of Despond"
+msgstr ""
+
+msgid "Snack"
+msgstr ""
+
+msgid "Snowblind"
+msgstr ""
+
+msgid "Snowden Drifts"
+msgstr ""
+
+msgid "Snowhawk Landing Waypoint"
+msgstr ""
+
+msgid "Solid Ocean"
+msgstr ""
+
+msgid "Some recipes result in a random quantity, in which case the average is used for calculations."
+msgstr ""
+
+msgid "Sorrow's Embrace"
+msgstr ""
+
+msgid "Soulbound"
+msgstr ""
+
+msgid "Soulbound on use"
+msgstr ""
+
+msgid "Sound Notifications:"
+msgstr ""
+
+msgid "Soup"
+msgstr ""
+
+msgid "Southsun Cove"
+msgstr ""
+
+msgid "Sparkfly Fen"
+msgstr ""
+
+msgid "Spawns"
+msgstr ""
+
+msgid "Spear"
+msgstr ""
+
+msgid "Speargun"
+msgstr ""
+
+msgid "Spears"
+msgstr ""
+
+msgid "Special miniatures"
+msgstr ""
+
+msgid "Special thanks"
+msgstr ""
+
+msgid "Spinach"
+msgstr ""
+
+msgid "Spirit Shards"
+msgstr ""
+
+msgid "Staff"
+msgstr ""
+
+msgid "Staffs"
+msgstr ""
+
+msgid "Started"
+msgstr ""
+
+msgid "Starter"
+msgstr ""
+
+msgid "Stash"
+msgstr ""
+
+msgid "Statistics"
+msgstr ""
+
+msgid "Statistics by playtime"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Steelbrachen"
+msgstr ""
+
+msgid "Story"
+msgstr ""
+
+msgid "Straits of Devastation"
+msgstr ""
+
+msgid "Strawberries"
+msgstr ""
+
+msgid "Sub-Type:"
+msgstr ""
+
+msgid "Subcategory"
+msgstr ""
+
+msgid "Submarine (Path 1)"
+msgstr ""
+
+msgid "Subtype:"
+msgstr ""
+
+msgid "Successfully copied"
+msgstr ""
+
+msgid "Successfully logged in!"
+msgstr ""
+
+msgid "Successfully logged out, see you soon!"
+msgstr ""
+
+msgid "Successfully registered, nice to have you!"
+msgstr ""
+
+msgid "Successfully reset your password, welcome back!"
+msgstr ""
+
+msgid "Sugar Pumpkins"
+msgstr ""
+
+msgid "Supply"
+msgstr ""
+
+msgid "Supporters ♥"
+msgstr ""
+
+msgid "Swampland (Bloomhunger)"
+msgstr ""
+
+msgid "Swampland (Mossman)"
+msgstr ""
+
+msgid "Sword"
+msgstr ""
+
+msgid "Swords"
+msgstr ""
+
+msgid "Sylvari"
+msgstr ""
+
+msgid "TP"
+msgstr ""
+
+msgid "Tactician Deathstrider"
+msgstr ""
+
+msgid "Tailor"
+msgstr ""
+
+msgid "Taimi's"
+msgstr ""
+
+msgid "Tangled Depths"
+msgstr ""
+
+msgid "Tax"
+msgstr ""
+
+msgid "Teams"
+msgstr ""
+
+msgid "Teleporter (Path 2)"
+msgstr ""
+
+msgid "Tempest"
+msgstr ""
+
+msgid "Temple of Balthazar"
+msgstr ""
+
+msgid "Temple of Dwayna"
+msgstr ""
+
+msgid "Temple of Grenth"
+msgstr ""
+
+msgid "Temple of Lyssa"
+msgstr ""
+
+msgid "Temple of Melandru"
+msgstr ""
+
+msgid "Temporarily available miniatures"
+msgstr ""
+
+msgid "Tequatl Rising"
+msgstr ""
+
+msgid "Tequatl the Sunless"
+msgstr ""
+
+msgid "Terra Carorunda Waypoint"
+msgstr ""
+
+msgid "Thanks to Silveress.5197 for their suggestions and their research on average droprates."
+msgstr ""
+
+msgid "Thaumanova Reactor"
+msgstr ""
+
+msgid "The Citadel of Flame Waypoint"
+msgstr ""
+
+msgid "The Frozen Maw"
+msgstr ""
+
+msgid "The Ruined City of Arah"
+msgstr ""
+
+msgid "The Shatterer"
+msgstr ""
+
+msgid "The Team"
+msgstr ""
+
+msgid "The following part of the page has not yet been optimized for mobile use. You can scroll horizontally to use the whole part."
+msgstr ""
+
+msgid "The page you requested requires an API key to access your GW2 account."
+msgstr ""
+
+msgid "The recharge time of skills you use is increased if you have a condition on you. Enemies apply random conditions."
+msgstr ""
+
+msgid "The required recipes have a chance to drop off the last boss of each path"
+msgstr ""
+
+msgid "There are no skins matching your filters"
+msgstr ""
+
+msgid "There was an error accessing the API"
+msgstr ""
+
+msgid ""
+"These are the currently available options to spend Black Lion Claim Tickets.<br>\n"
+"        Not up to date? Please <a href=\"https://wiki.guildwars2.com/wiki/Black_Lion_Weapons_Specialist_(The_Vaults)\" target=\"_blank\">update the wiki page</a>, and this page will reflect the changes."
+msgstr ""
+
+msgid "These are the materials to craft {{ tree.totalQuantity }} instead of {{ amount }} items, because the recipe doesn't allow for the amount you specified."
+msgstr ""
+
+msgid "These credentials were not correct."
+msgstr ""
+
+msgid "These prices are only updated every 24 hours, to refresh them click <i class=\"fa fa-refresh\"></i> on the right"
+msgstr ""
+
+msgid "Thief"
+msgstr ""
+
+msgid "This is a Community Lottery organized by \"queicherius.2563\" and \"Morganna Bloodrush.6309\". To have a chance of winning a prize, simply enter your account name below and press \"Enter me into the lottery!\". The draws are on the 1st every month and prizes will change each time. If you wish to donate towards the prize fund, please contact either of us in game."
+msgstr ""
+
+msgid "This is not a valid e-mail."
+msgstr ""
+
+msgid ""
+"This is sponsored by Guild Mm [Fame].<br>\n"
+"        If you wish to donate towards future lotteries, please contact either<br>\n"
+"        \"queicherius.2563\" or \"Saskia Van Leeuwen\" in game.<br>We will reroll if you don't answer within 72 hours of winning, or are impolite."
+msgstr ""
+
+msgid "This is using your account data from {{ lastUpdate | date:'mediumTime' }}. <a href=\"\" class=\"statlink\" ng-click=\"loadAccountData()\">Refresh now!</a>"
+msgstr ""
+
+msgid "This page has not yet been optimized for mobile use. You can scroll horizontally to use the whole page."
+msgstr ""
+
+msgid "This password-reset link is invalid, please request another one."
+msgstr ""
+
+msgid "This recipe can yield multiple random drops, including common, fine and rare materials"
+msgstr ""
+
+msgid "This recipe expects you to craft {{ daily_cooldowns.amount }} items that you can only craft once a day:"
+msgstr ""
+
+msgid "This shouldn't be your Guildwars 2 credentials, you can choose whatever you want."
+msgstr ""
+
+msgid "This table has not yet been optimized for mobile use. You can scroll horizontally to see the whole table."
+msgstr ""
+
+msgid "This username already exists"
+msgstr ""
+
+msgid "Thistlereed Waypoint"
+msgstr ""
+
+msgid "Tickets"
+msgstr ""
+
+msgid "Tier"
+msgstr ""
+
+msgid "Tiers:"
+msgstr ""
+
+msgid "Tiga Fierceblade"
+msgstr ""
+
+msgid "Timberline Falls"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Time display:"
+msgstr ""
+
+msgid "Titles only:"
+msgstr ""
+
+msgid "To"
+msgstr ""
+
+msgid "Tokens"
+msgstr ""
+
+msgid "Torch"
+msgstr ""
+
+msgid "Torches"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Total buy price"
+msgstr ""
+
+msgid "Total cost:"
+msgstr ""
+
+msgid "Total current price"
+msgstr ""
+
+msgid "Total invested money"
+msgstr ""
+
+msgid "Total listing price"
+msgstr ""
+
+msgid "Total net value"
+msgstr ""
+
+msgid "Total order price"
+msgstr ""
+
+msgid "Total profit"
+msgstr ""
+
+msgid "Total sell price"
+msgstr ""
+
+msgid "Total:"
+msgstr ""
+
+msgid "Toughness"
+msgstr ""
+
+msgid "Tower of Nightmares"
+msgstr ""
+
+msgid "Track your dailies and dungeon times, calculate the most efficient dungeons for you and compare with other players."
+msgstr ""
+
+msgid "Track your investments, watch item prices easily, show flip profits and get detailed insight with comprehensive graphs."
+msgstr ""
+
+msgid "Tracked items"
+msgstr ""
+
+msgid "Tradingpost"
+msgstr ""
+
+msgid "Tradingpost - Current transactions"
+msgstr ""
+
+msgid "Tradingpost - Delivery"
+msgstr ""
+
+msgid "Tradingpost - Investment history"
+msgstr ""
+
+msgid "Tradingpost - Overview"
+msgstr ""
+
+msgid "Tradingpost - Transaction history"
+msgstr ""
+
+msgid "Tradingpost Price (buy)"
+msgstr ""
+
+msgid "Tradingpost Price (sell)"
+msgstr ""
+
+msgid "Tradingpost: Buy Orders"
+msgstr ""
+
+msgid "Tradingpost: Delivery Box"
+msgstr ""
+
+msgid "Tradingpost: Sell Orders"
+msgstr ""
+
+msgid "Translations"
+msgstr ""
+
+msgid "Transmuted"
+msgstr ""
+
+msgid "Treasury"
+msgstr ""
+
+msgid "Trendline"
+msgstr ""
+
+msgid "Trident"
+msgstr ""
+
+msgid "Tridents"
+msgstr ""
+
+msgid "Trinket"
+msgstr ""
+
+msgid "Trinkets"
+msgstr ""
+
+msgid "Trophies"
+msgstr ""
+
+msgid "Trophy"
+msgstr ""
+
+msgid "Twilight Arbor"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Type:"
+msgstr ""
+
+msgid "Tyria"
+msgstr ""
+
+msgid "Tzark (Path 3)"
+msgstr ""
+
+msgid "Ulgoth the Modniir"
+msgstr ""
+
+msgid "Uncategorized"
+msgstr ""
+
+msgid "Uncommon"
+msgstr ""
+
+msgid "Underground Facility (Bombs)"
+msgstr ""
+
+msgid "Underground Facility (Guns)"
+msgstr ""
+
+msgid "Unfinished"
+msgstr ""
+
+msgid "Unique"
+msgstr ""
+
+msgid "Unlock"
+msgstr ""
+
+msgid "Unlocked"
+msgstr ""
+
+msgid "Unlocked Dyes"
+msgstr ""
+
+msgid "Unlocked Finishers"
+msgstr ""
+
+msgid "Unlocked Gliders"
+msgstr ""
+
+msgid "Unlocked Home Instance Nodes"
+msgstr ""
+
+msgid "Unlocked Mailcarriers"
+msgstr ""
+
+msgid "Unlocked Miniatures"
+msgstr ""
+
+msgid "Unlocked Outfits"
+msgstr ""
+
+msgid "Unlocked PvP Heroes"
+msgstr ""
+
+msgid "Unlocked Recipes"
+msgstr ""
+
+msgid "Unlocked Skins"
+msgstr ""
+
+msgid "Unranked Queue"
+msgstr ""
+
+msgid "Update own materials & best path every minute (last update: {{ tree.lastUpdate | date:'shortTime' }})"
+msgstr ""
+
+msgid "Updating of gemstore prices"
+msgstr ""
+
+msgid "Upgrade"
+msgstr ""
+
+msgid "Upgrade Component"
+msgstr ""
+
+msgid "Upgrade Components"
+msgstr ""
+
+msgid "Upgrades"
+msgstr ""
+
+msgid "Upgrades Only"
+msgstr ""
+
+msgid "Urban Battleground"
+msgstr ""
+
+msgid "Use own materials"
+msgstr ""
+
+msgid "Used / Free slots"
+msgstr ""
+
+msgid "Used owned materials"
+msgstr ""
+
+msgid "User interface icons"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Using own materials"
+msgstr ""
+
+msgid "Using {{ component.totalQuantity - component.usedQuantity }} owned materials"
+msgstr ""
+
+msgid "Utility Effects"
+msgstr ""
+
+msgid "Valslake Waypoint"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Value (ASC)"
+msgstr ""
+
+msgid "Value (DESC)"
+msgstr ""
+
+msgid "Value:"
+msgstr ""
+
+msgid "Vendor"
+msgstr ""
+
+msgid "Vendor price:"
+msgstr ""
+
+msgid "Verdant Brink"
+msgstr ""
+
+msgid "Vevina / Forward (Path 1)"
+msgstr ""
+
+msgid "View item history on gw2spidy"
+msgstr ""
+
+msgid "Vine Bridge Waypoint"
+msgstr ""
+
+msgid "Vitality"
+msgstr ""
+
+msgid "Vitality / Condition damage / Healing power"
+msgstr ""
+
+msgid "Voice notifications:"
+msgstr ""
+
+msgid "Volcanic"
+msgstr ""
+
+msgid "Volume"
+msgstr ""
+
+msgid "Waiting for the server to respond..."
+msgstr ""
+
+msgid "Wallet"
+msgstr ""
+
+msgid "Wallet: Gold"
+msgstr ""
+
+msgid "Warden Caedmon"
+msgstr ""
+
+msgid "Warhorn"
+msgstr ""
+
+msgid "Warhorns"
+msgstr ""
+
+msgid "Warning: there are new items available that are missing from this table - check back later!"
+msgstr ""
+
+msgid "Warrior"
+msgstr ""
+
+msgid "Waste Hollows"
+msgstr ""
+
+msgid "Watchful Source Waypoint"
+msgstr ""
+
+msgid "Wayfarer Foothills"
+msgstr ""
+
+msgid "Waypoint"
+msgstr ""
+
+msgid "Waywarde Waypoint"
+msgstr ""
+
+msgid "Weapon Sigils"
+msgstr ""
+
+msgid "Weapon Strength:"
+msgstr ""
+
+msgid "Weapons"
+msgstr ""
+
+msgid "Weapons to craft in the mystic forge, requiring additional 50 spirit shards each"
+msgstr ""
+
+msgid "Weaponsmith"
+msgstr ""
+
+msgid "Weight Class:"
+msgstr ""
+
+msgid "Weight:"
+msgstr ""
+
+msgid "When you dodge roll, you lose all your boons."
+msgstr ""
+
+msgid "When you dodge roll, you lose all your boons. Enemies steal boons when they hit you."
+msgstr ""
+
+msgid "Wide Expanse"
+msgstr ""
+
+msgid "Winner:"
+msgstr ""
+
+msgid "Winners of the last drawing"
+msgstr ""
+
+msgid "Winrate"
+msgstr ""
+
+msgid "Winter Chimes"
+msgstr ""
+
+msgid "Without using own materials"
+msgstr ""
+
+msgid "Won Match"
+msgstr ""
+
+msgid "Worldbosses"
+msgstr ""
+
+msgid "Worth"
+msgstr ""
+
+msgid "Wounded Private Felix"
+msgstr ""
+
+msgid "WvW"
+msgstr ""
+
+msgid "Wychmire Waypoint"
+msgstr ""
+
+msgid "Wyrmblood Waypoint"
+msgstr ""
+
+msgid "Yellow"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "You are entered for the next drawing. Good luck!"
+msgstr ""
+
+msgid "You can buy one of these each day from the Karmic Converter (needs \"Exotic Hunter\" achievement)"
+msgstr ""
+
+msgid "You can only buy these items are once per account."
+msgstr ""
+
+msgid "You don't have any tracked items."
+msgstr ""
+
+msgid "You have entered:"
+msgstr ""
+
+msgid "You have to be logged in to access this page"
+msgstr ""
+
+msgid "You have to fill out both fields"
+msgstr ""
+
+msgid "You have {{ (completion_unlocked = (cats | filter:catFilter | filter:{unlocked: true}).length) | number:0 }} of {{ (completion_total = (cats | filter:catFilter).length) }} ({{ (completion_unlocked / completion_total) * 100 | number:1 }}%) cats matching the filter."
+msgstr ""
+
+msgid "You have {{ (completion_unlocked = (dyes | orderBy:filter.order_by | filter:dyeFilter | filter:{unlocked: true}).length) | number:0 }} of {{ (completion_total = (dyes | orderBy:filter.order_by | filter:dyeFilter).length) }} ({{ (completion_unlocked / completion_total) * 100 | number:1 }}%) dyes matching the filter."
+msgstr ""
+
+msgid "You have {{ (completion_unlocked = (finishers | filter:finisherFilter | filter:{unlocked: true}).length) | number:0 }} of {{ (completion_total = (finishers | filter:finisherFilter).length) }} ({{ (completion_unlocked / completion_total) * 100 | number:1 }}%) finishers matching the filter."
+msgstr ""
+
+msgid "You have {{ (completion_unlocked = (gliders | filter:gliderFilter | filter:{unlocked: true}).length) | number:0 }} of {{ (completion_total = (gliders | filter:gliderFilter).length) }} ({{ (completion_unlocked / completion_total) * 100 | number:1 }}%) gliders matching the filter."
+msgstr ""
+
+msgid "You have {{ (completion_unlocked = (heroes | filter:heroFilter | filter:{unlocked: true}).length) | number:0 }} of {{ (completion_total = (heroes | filter:heroFilter).length) }} ({{ (completion_unlocked / completion_total) * 100 | number:1 }}%) heroes matching the filter."
+msgstr ""
+
+msgid "You have {{ (completion_unlocked = (mailcarriers | filter:mailcarrierFilter | filter:{unlocked: true}).length) | number:0 }} of {{ (completion_total = (mailcarriers | filter:mailcarrierFilter).length) }} ({{ (completion_unlocked / completion_total) * 100 | number:1 }}%) mailcarriers matching the filter."
+msgstr ""
+
+msgid "You have {{ (completion_unlocked = (miniatures | filter:miniatureFilter | filter:{unlocked: true}).length) | number:0 }} of {{ (completion_total = (miniatures | filter:miniatureFilter).length) }} ({{ (completion_unlocked / completion_total) * 100 | number:1 }}%) miniatures matching the filter."
+msgstr ""
+
+msgid "You have {{ (completion_unlocked = (nodes | filter:nodeFilter | filter:{unlocked: true}).length) | number:0 }} of {{ (completion_total = (nodes | filter:nodeFilter).length) }} ({{ (completion_unlocked / completion_total) * 100 | number:1 }}%) nodes matching the filter."
+msgstr ""
+
+msgid "You have {{ (completion_unlocked = (outfits | filter:outfitFilter | filter:{unlocked: true}).length) | number:0 }} of {{ (completion_total = (outfits | filter:outfitFilter).length) }} ({{ (completion_unlocked / completion_total) * 100 | number:1 }}%) outfits matching the filter."
+msgstr ""
+
+msgid "You have {{ (completion_unlocked = (recipes | filter:recipeFilter | filter:{unlocked: true}).length) | number:0 }} of {{ (completion_total = (recipes | filter:recipeFilter).length) }} ({{ (completion_unlocked / completion_total) * 100 | number:1 }}%) recipes matching the filter."
+msgstr ""
+
+msgid "You have {{ (completion_unlocked = (tonics | filter:tonicFilter | filter:{unlocked: true}).length) | number:0 }} of {{ (completion_total = (tonics | filter:tonicFilter).length) }} ({{ (completion_unlocked / completion_total) * 100 | number:1 }}%) tonics matching the filter."
+msgstr ""
+
+msgid "You have {{ wardrobe_completion.filtered.unlocked | number:0 }} of {{ wardrobe_completion.filtered.count | number:0 }} ({{ (wardrobe_completion.filtered.unlocked / wardrobe_completion.filtered.count) * 100 | number:1 }}%) skins matching the filter."
+msgstr ""
+
+msgid "You have {{ wardrobe_completion.total.unlocked | number:0 }} of {{ wardrobe_completion.total.count | number:0 }} ({{ (wardrobe_completion.total.unlocked / wardrobe_completion.total.count) * 100 | number:1 }}%) skins in total."
+msgstr ""
+
+msgid "You played a total of {{ total_age | timeString:1:true:false:['hour', 'minute', 'second'] }} across all characters"
+msgstr ""
+
+msgid "Your account"
+msgstr ""
+
+msgid "Your account's guilds"
+msgstr ""
+
+msgid "Your buy price"
+msgstr ""
+
+msgid "Your collection is worth <span gold=\"\" amount=\"priceSum((dyes | orderBy:filter.order_by | filter:dyeFilter | filter:{unlocked: true}))\" display-copper=\"false\"></span>, and you would need <span gold=\"\" amount=\"priceSum((dyes | orderBy:filter.order_by | filter:dyeFilter | filter:{unlocked: false}))\" display-copper=\"false\"></span> to complete it."
+msgstr ""
+
+msgid "Your collection is worth <span gold=\"\" amount=\"priceSum((finishers | filter:finisherFilter | filter:{unlocked: true}))\" display-copper=\"false\"></span>, and you would need <span gold=\"\" amount=\"priceSum((finishers | filter:finisherFilter | filter:{unlocked: false}))\" display-copper=\"false\"></span> to complete it."
+msgstr ""
+
+msgid "Your collection is worth <span gold=\"\" amount=\"priceSum((gliders | filter:gliderFilter | filter:{unlocked: true}))\" display-copper=\"false\"></span>, and you would need <span gold=\"\" amount=\"priceSum((gliders | filter:gliderFilter | filter:{unlocked: false}))\" display-copper=\"false\"></span> to complete it."
+msgstr ""
+
+msgid "Your collection is worth <span gold=\"\" amount=\"priceSum((heroes | filter:heroFilter | filter:{unlocked: true}))\" display-copper=\"false\"></span>, and you would need <span gold=\"\" amount=\"priceSum((heroes | filter:heroFilter | filter:{unlocked: false}))\" display-copper=\"false\"></span> to complete it."
+msgstr ""
+
+msgid "Your collection is worth <span gold=\"\" amount=\"priceSum((mailcarriers | filter:mailcarrierFilter | filter:{unlocked: true}))\" display-copper=\"false\"></span>, and you would need <span gold=\"\" amount=\"priceSum((mailcarriers | filter:mailcarrierFilter | filter:{unlocked: false}))\" display-copper=\"false\"></span> to complete it."
+msgstr ""
+
+msgid "Your collection is worth <span gold=\"\" amount=\"priceSum((miniatures | filter:miniatureFilter | filter:{unlocked: true}))\" display-copper=\"false\"></span>, and you would need <span gold=\"\" amount=\"priceSum((miniatures | filter:miniatureFilter | filter:{unlocked: false}))\" display-copper=\"false\"></span> to complete it."
+msgstr ""
+
+msgid "Your collection is worth <span gold=\"\" amount=\"priceSum((nodes | filter:nodeFilter | filter:{unlocked: true}))\" display-copper=\"false\"></span>, and you would need <span gold=\"\" amount=\"priceSum((nodes | filter:nodeFilter | filter:{unlocked: false}))\" display-copper=\"false\"></span> to complete it."
+msgstr ""
+
+msgid "Your collection is worth <span gold=\"\" amount=\"priceSum((outfits | filter:outfitFilter | filter:{unlocked: true}))\" display-copper=\"false\"></span>, and you would need <span gold=\"\" amount=\"priceSum((outfits | filter:outfitFilter | filter:{unlocked: false}))\" display-copper=\"false\"></span> to complete it."
+msgstr ""
+
+msgid "Your collection is worth <span gold=\"\" amount=\"priceSum((recipes | filter:recipeFilter | filter:{unlocked: true}))\" display-copper=\"false\"></span>, and you would need <span gold=\"\" amount=\"priceSum((recipes | filter:recipeFilter | filter:{unlocked: false}))\" display-copper=\"false\"></span> to complete it."
+msgstr ""
+
+msgid "Your collection is worth <span gold=\"\" amount=\"priceSum((tonics | filter:tonicFilter | filter:{unlocked: true}))\" display-copper=\"false\"></span> (excluding doubles), and you would need <span gold=\"\" amount=\"priceSum((tonics | filter:tonicFilter | filter:{unlocked: false}))\" display-copper=\"false\"></span> to complete it."
+msgstr ""
+
+msgid "Your collection is worth <span gold=\"\" amount=\"wardrobe_completion.total.unlocked_price\" display-copper=\"false\"></span>, and you would need <span gold=\"\" amount=\"wardrobe_completion.total.left_price\" display-copper=\"false\"></span> to complete it."
+msgstr ""
+
+msgid "Your current API key is invalid."
+msgstr ""
+
+msgid "Your current API key is missing the \"{{ errorSplash.permission }}\" permission."
+msgstr ""
+
+msgid ""
+"Your current dungeon completion is read directly from your API key.<br>\n"
+"            You need to complete {{ 8 - dungeonFrequenterDone }} more dungeons for your Dungeon Frequenter Reward."
+msgstr ""
+
+msgid "Your current raid completion is read directly from your API key."
+msgstr ""
+
+msgid "Your sell price"
+msgstr ""
+
+msgid "Your skins are worth <span gold=\"\" amount=\"wardrobe_completion.filtered.unlocked_price\" display-copper=\"false\"></span>, and you would need <span gold=\"\" amount=\"wardrobe_completion.filtered.left_price\" display-copper=\"false\"></span> to complete them."
+msgstr ""
+
+msgid "Your upgrades are worth <span gold=\"\" amount=\"priceSum()\" display-copper=\"false\"></span>."
+msgstr ""
+
+msgid "Zealot (Path 3)"
+msgstr ""
+
+msgid "Zoom"
+msgstr ""
+
+msgid "all"
+msgstr ""
+
+msgid "amount"
+msgstr ""
+
+msgid "and"
+msgstr ""
+
+msgid "available"
+msgstr ""
+
+msgid "bound"
+msgstr ""
+
+msgid "buy price (\"order\")"
+msgstr ""
+
+msgid "c"
+msgstr ""
+
+msgid "completed"
+msgstr ""
+
+msgid "done editing"
+msgstr ""
+
+msgid "each"
+msgid_plural "per {{$count}}"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "edit"
+msgstr ""
+
+msgid "even on"
+msgstr ""
+
+msgid "for"
+msgstr ""
+
+msgid "g"
+msgstr ""
+
+msgid "hide"
+msgstr ""
+
+msgid "in {{$time}}"
+msgstr ""
+
+msgid "including items in inventories"
+msgstr ""
+
+msgid "just now"
+msgstr ""
+
+msgid "left"
+msgstr ""
+
+msgid "max"
+msgstr ""
+
+msgid "min"
+msgstr ""
+
+msgid "next up in {{ event.closestTime | timeString:2 }}"
+msgstr ""
+
+msgid "objective"
+msgid_plural "objectives"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "ordered"
+msgstr ""
+
+msgid "other"
+msgstr ""
+
+msgid "out of"
+msgstr ""
+
+msgid "s"
+msgstr ""
+
+msgid "sell price (\"instant buy\")"
+msgstr ""
+
+msgid "show"
+msgstr ""
+
+msgid "show autolearned"
+msgstr ""
+
+msgid "slots"
+msgstr ""
+
+msgid "stack"
+msgid_plural " stacks"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "tier"
+msgid_plural "tiers"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "to"
+msgstr ""
+
+msgid "your account.1234"
+msgstr ""
+
+msgid "{{ owned_item.ownedQuantity | number: 0 }} owned - hover for details"
+msgstr ""
+
+msgid "{{$count}} day"
+msgid_plural "{{$count}} days"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "{{$count}} hour"
+msgid_plural "{{$count}} hours"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "{{$count}} minute"
+msgid_plural "{{$count}} minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "{{$count}} month"
+msgid_plural "{{$count}} months"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "{{$count}} second"
+msgid_plural "{{$count}} seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "{{$count}} week"
+msgid_plural "{{$count}} weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "{{$count}} year"
+msgid_plural "{{$count}} years"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "{{$time}} ago"
+msgstr ""
+
+msgid "✕ CLOSE"
+msgstr ""
