@@ -1049,7 +1049,7 @@ msgid "Daggers"
 msgstr "Dolche"
 
 msgid "Daily"
-msgstr "Erledigt"
+msgstr "Tägliche"
 
 msgid "Daily & Monthly"
 msgstr "Tägliche & Monatliche"
