@@ -135,7 +135,6 @@
   "Kraitbane Haven Waypoint": "Point de passage du Refuge de Kraitban",
   "Leatherworker": "Travailleur du cuir",
   "Leggings": "Jambières",
-  "Lentils": "Lentilles",
   "Lettuce": "Laitue",
   "Light": "Légère",
   "Lights Waypoint": "Point de passage des Lumières",
@@ -162,7 +161,6 @@
   "Mithril": "Mithril",
   "Mount Maelstrom": "Mont Maelström",
   "Mournful Waypoint": "Point de passage lugubre",
-  "Mussels": "Moules",
   "Necromancer": "Nécromancien",
   "No": "Non",
   "Nolan Waypoint": "Point de passage de Nolan",
@@ -300,5 +298,6 @@
   "You are set, have fun exploring your account!": "C'est tout bon, amusez-vous à explorer votre compte !",
   "You made a minimum of <0/> with gathering today.": "Vous avez fait un minimum de <0/> avec la récolte aujourd'hui.",
   "{0, plural, one {Show 1 hidden gathering node} other {Show # hidden gathering nodes}}": "{0, plural, one {Afficher 1 zone de récolte cachée} other {Afficher # zones de récolte cachées}}",
-  "{hours,number} hours": "{hours,number} heures"
+  "{hours,number} hours": "{hours,number} heures",
+  "Page<0>{0,number}</0>of<1>{totalPages,number}</1>": ""
 }

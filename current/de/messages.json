@@ -135,7 +135,6 @@
   "Kraitbane Haven Waypoint": "Wegmarke Kraitbann-Freistatt",
   "Leatherworker": "Lederer",
   "Leggings": "Bein",
-  "Lentils": "Linsen",
   "Lettuce": "Salat",
   "Light": "Leicht",
   "Lights Waypoint": "Wegmarke Lichter",
@@ -162,7 +161,6 @@
   "Mithril": "Mithril",
   "Mount Maelstrom": "Mahlstromgipfel",
   "Mournful Waypoint": "Wegmarke Schwermut",
-  "Mussels": "Miesmuscheln",
   "Necromancer": "Nekromant",
   "No": "Nein",
   "Nolan Waypoint": "Wegmarke Nolan",
@@ -300,5 +298,6 @@
   "You are set, have fun exploring your account!": "Fertig, viel Spass dabei deinen Account zu erkunden!",
   "You made a minimum of <0/> with gathering today.": "Du hast heute ein Minimum von <0/> mit Sammeln verdient.",
   "{0, plural, one {Show 1 hidden gathering node} other {Show # hidden gathering nodes}}": "{0, plural, one {Zeige einen verborgenen Sammelknoten} other {Zeige # verborgene Sammelknoten}}",
-  "{hours,number} hours": "{hours,number} Stunden"
+  "{hours,number} hours": "{hours,number} Stunden",
+  "Page<0>{0,number}</0>of<1>{totalPages,number}</1>": "Seite<0>{0,number}</0>von<1>{totalPages,number}</1>"
 }

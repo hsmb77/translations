@@ -135,7 +135,6 @@
   "Kraitbane Haven Waypoint": "",
   "Leatherworker": "",
   "Leggings": "",
-  "Lentils": "",
   "Lettuce": "",
   "Light": "",
   "Lights Waypoint": "",
@@ -162,7 +161,6 @@
   "Mithril": "",
   "Mount Maelstrom": "",
   "Mournful Waypoint": "",
-  "Mussels": "",
   "Necromancer": "",
   "No": "",
   "Nolan Waypoint": "",
@@ -300,5 +298,6 @@
   "You are set, have fun exploring your account!": "",
   "You made a minimum of <0/> with gathering today.": "",
   "{0, plural, one {Show 1 hidden gathering node} other {Show # hidden gathering nodes}}": "",
-  "{hours,number} hours": ""
+  "{hours,number} hours": "",
+  "Page<0>{0,number}</0>of<1>{totalPages,number}</1>": ""
 }

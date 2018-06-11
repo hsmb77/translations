@@ -605,7 +605,7 @@ msgid "Caledon Haven Waypoint"
 msgstr ""
 
 msgid ""
-"Can't find a user with that e-mail address, please contact support under <a href=\"mailto:admin@gw2efficiency.com\">admin@gw2efficiency.com</a>\n"
+"Can't find a user with that e-mail address, please contact support under <a href=\"mailto:support@gw2efficiency.com\">support@gw2efficiency.com</a>\n"
 "                    for instructions on how to get your account back."
 msgstr ""
 

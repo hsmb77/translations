@@ -135,7 +135,6 @@
   "Kraitbane Haven Waypoint": "Kraitbane Haven Waypoint",
   "Leatherworker": "Leatherworker",
   "Leggings": "Leggings",
-  "Lentils": "Lentils",
   "Lettuce": "Lettuce",
   "Light": "Light",
   "Lights Waypoint": "Lights Waypoint",
@@ -162,7 +161,6 @@
   "Mithril": "Mithril",
   "Mount Maelstrom": "Mount Maelstrom",
   "Mournful Waypoint": "Mournful Waypoint",
-  "Mussels": "Mussels",
   "Necromancer": "Necromancer",
   "No": "No",
   "Nolan Waypoint": "Nolan Waypoint",
@@ -300,5 +298,6 @@
   "You are set, have fun exploring your account!": "You are set, have fun exploring your account!",
   "You made a minimum of <0/> with gathering today.": "You made a minimum of <0/> with gathering today.",
   "{0, plural, one {Show 1 hidden gathering node} other {Show # hidden gathering nodes}}": "{0, plural, one {Show 1 hidden gathering node} other {Show # hidden gathering nodes}}",
-  "{hours,number} hours": "{hours,number} hours"
+  "{hours,number} hours": "{hours,number} hours",
+  "Page<0>{0,number}</0>of<1>{totalPages,number}</1>": "Page<0>{0,number}</0>of<1>{totalPages,number}</1>"
 }
