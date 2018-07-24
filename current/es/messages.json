@@ -469,5 +469,5 @@
   "{v, plural, one {month} other {months}}": "{v, plural, one {mes} other {meses}}",
   "{v, plural, one {second} other {seconds}}": "{v, plural, one {segundo} other {segundos}}",
   "{v, plural, one {week} other {weeks}}": "{v, plural, one {semana} other {semanas}}",
-  "{v, plural, one {año} other {años}}": ""
+  "{v, plural, one {year} other {years}}": "{v, plural, one {año} other {años}}"
 }
