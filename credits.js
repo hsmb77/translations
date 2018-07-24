@@ -1,6 +1,12 @@
 // The entries in this file get shown on https://gw2efficiency.com/community/contributors
 // Feel free to add yourself after updating one of the translations! :)
 
+const current = [
+  {name: 'Ainillia.5794', language: 'French'},
+  {name: 'jonesarte.2980', language: 'Spanish'},
+  {name: 'MrSmiley.9273', language: 'German'}
+]
+
 module.exports = [
   'Ainillia.5794',
   'Creativewild.6319',
