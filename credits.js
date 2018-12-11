@@ -22,6 +22,7 @@ module.exports = [
   'razzy.8650',
   'Saha.7218',
   'Talas Shounika.7185',
+  'TheMrMilchmann.3491',
   'Unshatter.8210',
   'Wiella.8567',
   'Xerneas.4267',
